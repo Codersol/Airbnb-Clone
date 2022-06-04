@@ -4,7 +4,9 @@
   box-sizing: border-box;
   font-family: "poppins", sans-serif;
 }
-
+.head {
+  font-weight: 300;
+}
 .header {
   min-height: 100vh;
   width: 100%;
